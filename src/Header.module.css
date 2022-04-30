@@ -1,0 +1,30 @@
+.header button:active {
+  background-color: var(--maincolor-escuro);
+  color: white;
+}
+
+.header {
+  background-color: var(--secondcolor);
+  color: var(--maincolor);
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  height: 80px;
+}
+
+.header button {
+  color: var(--maincolor);
+  background-color: var(--secondcolor);
+  border: none;
+  width: 100px;
+}
+
+.header button:hover {
+  background-color: var(--secondcolor-claro);
+}
+
+.header h1 {
+   margin-left: 20px;
+   margin-right: 20 px;
+}

@@ -1,0 +1,14 @@
+.center {
+  text-align: center;
+}
+
+.projects {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+ul h4 {
+  text-align: center;
+}

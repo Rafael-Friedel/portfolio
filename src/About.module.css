@@ -1,0 +1,24 @@
+.center {
+  text-align: center;
+}
+
+.article {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.paragraph {
+  width: 350px;
+}
+
+.about {
+  padding: 8px;
+}
+
+.img { 
+  object-fit: cover;
+  width: 340px;
+  height: 270px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}

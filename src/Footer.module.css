@@ -1,0 +1,7 @@
+.footer {
+  background-color: var(--secondcolor);
+  color: var(--maincolor);
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 24px 
+}
